@@ -105,7 +105,7 @@ main {
       rgba(170, 92, 219, 0.4),
       rgba(170, 92, 219, 0.4)
     ),
-    url(/images/image-header-desktop.jpg);
+    url(./images/image-header-desktop.jpg);
 
   background-size: cover;
 

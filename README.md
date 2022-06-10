@@ -9,13 +9,14 @@
   <a href="#-Licença">License</a>
 </p>
 
+![image](https://user-images.githubusercontent.com/2619027/173163238-c82ef814-dd57-4fb0-9779-ef357f6e8672.png)
 
 
 <div>
-    <img src="https://img.shields.io/github/repo-size/felpfsf/reponame">
-    <img src="https://img.shields.io/github/last-commit/felpfsf/reponame">
-    <img src="https://img.shields.io/github/languages/count/felpfsf/reponame">
-    <img src="https://img.shields.io/github/languages/top/felpfsf/reponame">
+    <img src="https://img.shields.io/github/repo-size/felpfsf/Stats-Preview">
+    <img src="https://img.shields.io/github/last-commit/felpfsf/Stats-Preview">
+    <img src="https://img.shields.io/github/languages/count/felpfsf/Stats-Preview">
+    <img src="https://img.shields.io/github/languages/top/felpfsf/Stats-Preview">
 </div>
 </div>
 
@@ -50,7 +51,7 @@ Under construction...
 
 ## 📝 License
 
-![image](https://img.shields.io/github/license/felpfsf/alura-challenge-logica-jogo-forca?label=license&style=flat-square)
+![image](https://img.shields.io/github/license/felpfsf/Stats-Preview?label=license&style=flat-square)
 <!--
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 -->
